@@ -1,0 +1,25 @@
+modul.py:
+
+- Gyerek osztály
+    -> név
+    -> születési év
+    -> nem
+    -> magasság
+    -> súly
+
+fg, ami paraméterben kap egy egész számot, bekéri ennyi db gyerek adatait, majd visszatér egy gyerekeket tartalmazó listával
+
+fg, ami megadja paraméterben kapott gyereklistában a fiúk és lányok arányát (float)
+
+fg, ami megadja paraméterben kapott gyereklistából a legidősebb gyerek nevét
+
+fg, ami megadja paraméterben kapott gyerelistában lévő gyerekek átlagmagasságát
+
+fg, ami kiszámolja a TTI-t (korábban csináltunk ilyet)
+
+fg, ami visszaadja a paraméterben kapott listából a túlsúlyios gyerekek listáját (tti > 25)
+
+main.py:
+- bekér egy számot
+- a mgulban lévő fg segítségével készít egy ilyen hosszú listáját
+- meghívja a modul összes fg.-jét
